@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9546e7a0-5991-4404-b376-b80285d2abd8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azuretrev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc257a30ac959bfe754aaca189b8a66bcbc479ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+231699f4c19410406e4687612cd5b7b9b7856124")]
 [assembly: System.Reflection.AssemblyProductAttribute("azuretrev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azuretrev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

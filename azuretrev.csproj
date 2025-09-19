@@ -4,6 +4,13 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/194cbf3a-224c-4323-93dd-35f0de57758f/resourcegroups/az-rg-trav-git/providers/microsoft.insights/components/azuretrev</ApplicationInsightsResourceId>
+    <UserSecretsId>9546e7a0-5991-4404-b376-b80285d2abd8</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.13.2" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.23.0" />
+  </ItemGroup>
 
 </Project>
