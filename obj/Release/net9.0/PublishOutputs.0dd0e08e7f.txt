@@ -1,0 +1,7 @@
+D:\Deshan Zenbook\git\azure\azuretrev\publish\azuretrev.exe
+D:\Deshan Zenbook\git\azure\azuretrev\publish\appsettings.Development.json
+D:\Deshan Zenbook\git\azure\azuretrev\publish\appsettings.json
+D:\Deshan Zenbook\git\azure\azuretrev\publish\azuretrev.dll
+D:\Deshan Zenbook\git\azure\azuretrev\publish\azuretrev.deps.json
+D:\Deshan Zenbook\git\azure\azuretrev\publish\azuretrev.runtimeconfig.json
+D:\Deshan Zenbook\git\azure\azuretrev\publish\azuretrev.pdb

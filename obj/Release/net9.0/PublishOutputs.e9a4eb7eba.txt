@@ -1,0 +1,13 @@
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\azuretrev.exe
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\web.config
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\appsettings.Development.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\appsettings.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\azuretrev.deps.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\azuretrev.runtimeconfig.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\publish\azuretrev.staticwebassets.endpoints.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\azuretrev.dll
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\azuretrev.deps.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\azuretrev.runtimeconfig.json
+D:\Deshan Zenbook\git\azure\azuretrev\obj\Release\net9.0\PubTmp\Out\azuretrev.pdb
